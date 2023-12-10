@@ -1,0 +1,15 @@
+{
+  "name": "oh_my_food",
+    "version": "1.0.0",
+    "description": "Openclassroom - oh my food - project 4",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exist 1",
+        "sass": "sass --watch ./sass/main.scss:./assets/css/style.css"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+    "sass": "^1.69.5"
+  }
+}
